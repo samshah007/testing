@@ -19,5 +19,8 @@
   "homepage": "https://github.com/samshah007/testing#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
   }
 }
